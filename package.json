@@ -27,8 +27,8 @@
     "next": "^15.3.6",
     "next-intl": "^4.1.0",
     "payload": "^3.33.0",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "sharp": "^0.34.2"
   },
   "devDependencies": {
